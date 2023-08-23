@@ -1,15 +1,15 @@
 {
                "name": "DarkQueen",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by X-Notiya.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name 💓DarkQueen💓",
                 "stop": "pm2 stop 💓DarkQueen💓"
                 },
-               "author": "SamPandey001",
+               "author": "X-Notiya",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
